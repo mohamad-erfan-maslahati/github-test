@@ -1,0 +1,27 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+.divTable{
+	display: table;
+	width: 1438px;
+	font-size: 13px;
+	font-family: tahoma;
+	margin-left: auto;
+	margin-right: auto;
+	direction: rtl;
+}
+.divTableRow{
+	display: table-row;
+}
+.divTableCell{
+	display: table-cell;
+	border: 2px solid #999999;
+	padding: 3px 94px;
+}
+body{
+    background-color: aqua;
+   
+   
+}
+
